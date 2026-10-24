@@ -77,3 +77,16 @@ Estrutura:
         <body>
         </body>
     </html>
+
+Doctype
+
+É colocado no inicio, antes mesmo do html.
+
+    <!doctype html>
+
+Imagem, arquivos externos e links
+
+    <img> -> src e alt (texto se a imagem não carregar)
+    <script> -> src
+    <link> -> href e rel
+    <a> -> href e title
