@@ -70,3 +70,14 @@ Estrutura:
 ### Background-color
 
 Muda a cor de fundo de um elemento ou página.
+
+## Modelo de caixa
+
+O modelo de caixa (Box Model) é um dos conceitos mais importantes do CSS. Ele define como o navegador calcula o espaço ocupado por cada elemento na página.
+
+Todo elemento HTML é tratado como uma caixa composta por 4 partes:
+
+- Content (Conteúdo): É a área onde o conteúdo aparece: texto, imagens, vídeos, etc.
+- Padding (Preechimento): Espaço entre o conteúdo e a borda.
+- Border (Borda): A borda que envolve o padding e o conteúdo.
+- Margin (Margem): Espaço externo entre o elemento e os outros elementos.
