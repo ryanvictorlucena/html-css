@@ -35,6 +35,8 @@ Exemplo:
     .minha-classe {...}
     #meu-id {...}
 
+Obs: id por definição é único por página. Geralmente usado para efeito único, quando queremos afetar mais coisas, usamos o class.
+
 ## Fonts
 
 - Font-family: Formata a familia da fonte.
@@ -64,3 +66,7 @@ Estrutura:
 - #FFFF00: amarelo.
 - #FF00FF: rosa.
 - #00FFFF: azul claro.
+
+### Background-color
+
+Muda a cor de fundo de um elemento ou página.
