@@ -1,3 +1,3 @@
-# HTML + CSS
+# HTML e CSS
 
 Local de aprendizado das linguagens HTML e CSS.
