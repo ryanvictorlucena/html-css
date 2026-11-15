@@ -81,3 +81,16 @@ Todo elemento HTML é tratado como uma caixa composta por 4 partes:
 - Padding (Preechimento): Espaço entre o conteúdo e a borda.
 - Border (Borda): A borda que envolve o padding e o conteúdo.
 - Margin (Margem): Espaço externo entre o elemento e os outros elementos.
+
+## Pseudo-classes e list-style
+
+a:link{...}
+a:visited{...} -> quando o usuário já visitou aquele link.
+a:hover{...} -> quando o usuário passa o mouse sobre o link.
+a:active{...} -> quando o usuário estiver com o botão do mouse precionado no link.
+
+List-style
+
+list-style-type
+list-style-position
+list-style-image
